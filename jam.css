@@ -1,0 +1,81 @@
+*{outline: red 1px solid;}
+
+body {
+    background-color: #82DDB5;
+    background-image: url('img/illustration.gif'), url('img/texture.jpg');
+    background-position: center 280px, left top;
+    background-repeat: no-repeat, repeat-x;
+    background-size: 800x, auto;
+    font-family: 'quicksand', sans-serif;
+    margin: 0;
+    
+    
+}
+
+
+
+
+#nav {
+    background-color: #6B9;
+    border-bottom: 2px dashed #487;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    word-spacing: 2em;
+    
+}
+
+
+
+#header {
+    
+    text-align: center;
+    margin-top: 40px;
+}
+
+
+
+#logo {
+    max-width: 360px;
+    
+}
+
+
+
+#description, #date {
+    max-width: 220px;
+    
+}
+
+
+
+.register, #date {
+    background-color: #E43;
+    border: 2px dashed #A43;
+    border-radius: 2em;
+    color: #FFF;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: bold;
+    margin-top: 25px;
+    padding: 15px 30px;
+    
+}
+
+
+    <div id="what">
+        <h1>What?</h1>
+        <p>
+            Open Jam Aotearoa is a 48 hour game jam. Turn up with your own device, hang out with cool peeps, and make an awesome game &ndash; even if you have never made a game before but love the idea!
+        </p>
+        <p>
+            There will be enough power points and WiFi available and we will provide snacks (and soup!) each day. We will have a networked harddrive on-site for participants to openly share assets created during the jam. We'd love to see some weird cross-pollination of game art/code/audio/etc. between games.
+        </p>
+        <p>
+            It will be $20 cash on the Friday to participate in the jam (the money will all go to food and paying the poster designer).
+        </p>
+        <h2>Sponsors</h2>
+        <p id="sponsor_logos">
+            <img src="img/massey.svg" />
+            <img src="img/oracle.svg" />
+        </p>
