@@ -5,10 +5,10 @@
     font-weight: bold;
     text-align: center;
     word-spacing: 2em;
+    
 }
 
-    
-    *{
+*{
  margin: 0;
  padding: 0;
 }
@@ -43,7 +43,7 @@ img-info p {
     line-height: 24px;
 }
 
-.img-Bob{
+.img-Krusty{
     width: 100%;
 }
     body {
@@ -80,10 +80,10 @@ img-info p {
     padding: 20px 0px 0px;
 }
     
-.img-Bob{
+.img-Krusty{
   padding-top: 30px;
 }
-     body {
+    body {
     background-color: #33C7FF; 
     background-position: center 280px, left top;
     background-repeat: no-repeat, repeat-x;
@@ -115,9 +115,9 @@ img-info p {
     padding: 20px 0px 0px 30px;
 }
     
-.img-Bob{
+.img-Krusty{
         padding-top: 0px;
-        width: 50%;
+        width: 45%;
         float: left;
 }
     body {

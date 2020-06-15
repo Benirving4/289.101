@@ -7,8 +7,7 @@
     word-spacing: 2em;
 }
 
-    
-    *{
+*{
  margin: 0;
  padding: 0;
 }
@@ -43,7 +42,7 @@ img-info p {
     line-height: 24px;
 }
 
-.img-Bob{
+.img-ToyStory{
     width: 100%;
 }
     body {
@@ -56,7 +55,6 @@ img-info p {
     
     
     }
-
 
 @media only screen and (min-width: 768px) {
     .img-banner {
@@ -80,10 +78,10 @@ img-info p {
     padding: 20px 0px 0px;
 }
     
-.img-Bob{
+.img-ToyStory{
   padding-top: 30px;
 }
-     body {
+    body {
     background-color: #33C7FF; 
     background-position: center 280px, left top;
     background-repeat: no-repeat, repeat-x;
@@ -93,7 +91,6 @@ img-info p {
     
     
     }
-
     
 @media only screen and (min-width: 1000px) {
       .wrapper {
@@ -115,7 +112,7 @@ img-info p {
     padding: 20px 0px 0px 30px;
 }
     
-.img-Bob{
+.img-ToyStory{
         padding-top: 0px;
         width: 50%;
         float: left;
