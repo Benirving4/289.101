@@ -45,6 +45,14 @@ img-info p {
 .img-ToyStory{
     width: 100%;
 }
+
+.img-Planet{
+    width: 50%;
+}
+
+.img-Buzz1{
+    width: 70%;
+}
     body {
     background-color: #33C7FF; 
     background-position: center 280px, left top;
@@ -81,6 +89,13 @@ img-info p {
 .img-ToyStory{
   padding-top: 30px;
 }
+    
+    .img-Planet{
+    width: 50%;
+}
+    .img-Buzz1{
+    width: 70%;
+}
     body {
     background-color: #33C7FF; 
     background-position: center 280px, left top;
@@ -116,6 +131,13 @@ img-info p {
         padding-top: 0px;
         width: 50%;
         float: left;
+}
+    
+    .img-Planet{
+    width: 50%;
+}
+    .img-Buzz1{
+    width: 70%;
 }
     body {
     background-color: #33C7FF; 

@@ -42,9 +42,18 @@ img-info p {
     line-height: 24px;
 }
 
-.img-Bob{
+.img-Spongebob{
     width: 100%;
 }
+
+.img-Spongebob1{
+    width: 100%;
+}
+
+.img-Menu{
+    width: 100%;
+}
+
     body {
     background-color: #33C7FF; 
     background-position: center 280px, left top;
@@ -79,8 +88,16 @@ img-info p {
     padding: 20px 0px 0px;
 }
     
-.img-Bob{
+.img-Spongebob{
   padding-top: 30px;
+  
+}
+    .img-Spongebob1{
+  padding-top: 30px;
+  
+}
+    .img-Menu{
+    width: 100%;
 }
     body {
     background-color: #33C7FF; 
@@ -114,10 +131,18 @@ img-info p {
     padding: 20px 0px 0px 30px;
 }
     
-.img-Bob{
+.img-Spongebob{
         padding-top: 0px;
         width: 50%;
         float: left;
+}
+    .img-Spongebob1{
+        padding-top: 0px;
+        width: 50%;
+        float: left;
+}
+    .img-Menu{
+    width: 100%;
 }
     body {
     background-color: #33C7FF; 
