@@ -54,6 +54,8 @@ img-info p {
     width: 100%;
 }
 
+
+
     body {
     background-color: #33C7FF; 
     background-position: center 280px, left top;
@@ -96,9 +98,12 @@ img-info p {
   padding-top: 30px;
   
 }
-    .img-Menu{
-    width: 100%;
+        .img-Menu{
+  padding-top: 30px;
+  
 }
+
+
     body {
     background-color: #33C7FF; 
     background-position: center 280px, left top;
@@ -136,14 +141,15 @@ img-info p {
         width: 50%;
         float: left;
 }
-    .img-Spongebob1{
+    
+.img-Menu{
         padding-top: 0px;
         width: 50%;
         float: left;
 }
-    .img-Menu{
-    width: 100%;
-}
+
+
+
     body {
     background-color: #33C7FF; 
     background-position: center 280px, left top;

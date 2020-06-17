@@ -43,9 +43,18 @@ img-info p {
     line-height: 24px;
 }
 
-.img-Bob{
+.img-LOGO{
     width: 100%;
 }
+
+.img-Clown1{
+    width: 100%;
+}
+
+.img-Spongebob{
+    width: 100%;
+}
+
     body {
     background-color: #33C7FF; 
     background-position: center 280px, left top;
@@ -80,9 +89,17 @@ img-info p {
     padding: 20px 0px 0px;
 }
     
-.img-Bob{
+.img-LOGO{
   padding-top: 30px;
 }
+ .img-Clown1{
+  padding-top: 30px;
+}
+    
+ .img-Spongebob{
+  padding-top: 30px;
+}
+ 
      body {
     background-color: #33C7FF; 
     background-position: center 280px, left top;
@@ -115,11 +132,12 @@ img-info p {
     padding: 20px 0px 0px 30px;
 }
     
-.img-Bob{
+.img-LOGO{
         padding-top: 0px;
         width: 50%;
         float: left;
 }
+
     body {
     background-color: #33C7FF; 
     background-position: center 280px, left top;

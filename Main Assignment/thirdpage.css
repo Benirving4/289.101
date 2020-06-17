@@ -53,6 +53,10 @@ img-info p {
 .img-Buzz1{
     width: 70%;
 }
+
+.img-Woody1{
+    width: 70%;
+}
     body {
     background-color: #33C7FF; 
     background-position: center 280px, left top;
@@ -96,6 +100,9 @@ img-info p {
     .img-Buzz1{
     width: 70%;
 }
+        .img-Woody1{
+    width: 70%;
+}
     body {
     background-color: #33C7FF; 
     background-position: center 280px, left top;
@@ -137,6 +144,9 @@ img-info p {
     width: 50%;
 }
     .img-Buzz1{
+    width: 70%;
+}
+    .img-Woody1{
     width: 70%;
 }
     body {
